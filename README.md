@@ -25,7 +25,6 @@ This project is a hybrid deep learning system that combines Convolutional Neural
 - ├── model/ # Directory for storing trained models
 - │ └── hybrid_model.h5 # Saved Keras hybrid model
 - └── utils/ # Utility scripts
-- └── preprocessing.py # Video preprocessing and frame extraction functions
 
 
 ---
