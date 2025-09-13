@@ -1,4 +1,3 @@
-Deepfake detection system 
 # DeepFake Detection System using ResNet, LSTM, and CapsNet
 
 This project is a hybrid deep learning system that combines Convolutional Neural Networks (ResNet), Recurrent Neural Networks (LSTM), and Capsule Networks (CapsNet) to detect DeepFake videos. The system processes videos frame-by-frame and uses spatial-temporal and capsule feature extraction to classify videos as real or fake.
